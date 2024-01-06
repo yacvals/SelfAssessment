@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop: 👂 heard
+  - try..catch: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -14,25 +14,25 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
-  - Live locks
+  - Dead locks: 👂 heard
+  - Live locks: 👂 heard
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming: 👂 heard
   - Actor Model
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 🖐️ used in DB coursework
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🖐️ used in DB coursework
+  - Async/await: 🖐️ used in DB coursework
   - Future
   - Deferred
   - Sync generator
   - Async Generator
-  - Async Iterator
-  - Event
+  - Async Iterator: 🖐️ used in DB coursework
+  - Event: 🖐️ used in DB coursework
   - Coroutine
   - Goroutine
   - Signal
@@ -41,20 +41,20 @@
   - Middleware
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
-  - callbacks compose
-  - async compose
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
+  - asyncify: 👂 heard
+  - callbacks compose: 👂 heard
+  - async compose: 👂 heard
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 👂 heard
   - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
+  - Readable: 👂 heard
+  - Writable: 👂 heard
+  - Transform: 👂 heard
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
   - Semaphore
   - Mutex
   - Spin Lock
