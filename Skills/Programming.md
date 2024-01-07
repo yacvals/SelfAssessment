@@ -11,10 +11,10 @@
   - heap: 👂 heard
   - function: 🖐️ used
   - procedure: 🖐️ used
-  - method: 👂 heard
-  - class: 👂 heard
+  - method: 🖐️ used
+  - class: 🖐️ used
   - prototype: 🖐️ used
-  - event: 👂 heard
+  - event: 🖐️ used
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
@@ -25,15 +25,15 @@
   - loops: 🖐️ used
   - assignment: 👂 heard
   - regular expression
-  - interface: 👂 heard
+  - interface: 🖐️ used
   - contract: 👂 heard
-  - module: 👂 heard
+  - module: 🖐️ used
   - call stack: 🖐️ used
 - Functions
-  - signature: 👂 heard
+  - signature: 🖐️ used
   - argument: 🖐️ used
   - parameter: 🖐️ used
-  - pure function: 👂 heard
+  - pure function: 🖐️ used
   - lambda expression: 🖐️ used
   - side effects: 👂 heard
   - closure: 👂 heard
@@ -41,9 +41,9 @@
   - curry
   - higher order
   - recursion
-  - callback: 👂 heard
-  - listener: 👂 heard
-  - compose: 👂 heard
+  - callback: 🖐️ used
+  - listener: 🖐️ used
+  - compose: 🖐️ used
   - pipe
   - memoize: 👂 heard
   - wrapper: 👂 heard
@@ -56,12 +56,12 @@
   - array: 🖐️ used
   - structure: 🖐️ used
   - record
-  - enum
+  - enum: 🖐️ used
   - instance: 🖐️ used
-  - object: 👂 heard
-  - class: 👂 heard
-  - collection: 👂 heard
-  - set: 👂 heard
+  - object: 🖐️ used
+  - class: 🖐️ used
+  - collection: 🖐️ used
+  - set: 🖐️ used
   - hash table: 🖐️ used in SDA
   - linked list: 🖐️ used in SDA
   - doubly list: 🖐️ used in SDA labs
@@ -76,31 +76,31 @@
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing: 🖐️ used
 - Process & style
   - compiler: 🖐️ used
   - transpiler
   - linter: 🖐️ used
-  - polyfill
+  - polyfill: 👂 heard
   - debugger: 🖐️ used
   - garbage collection: 👂 heard
-  - refactoring: 👂 heard
+  - refactoring: 🖐️ used
   - code review: 🖐️ used
   - antipatterns: 🖐️ used
-  - paradigm: 👂 heard
+  - paradigm: 🖐️ used
   - algorithm: 🖐️ used in SDA labs
   - magic numbers: 👂 heard
   - hardcode: 👂 heard
-  - complexity
+  - complexity: 👂 heard
   - decomposition: 🖐️ used
   - spaghetti: 👂 heard
-  - silver bullet
-  - not invented here
+  - silver bullet: 👂 heard
+  - not invented here: 👂 heard
   - dead code: 👂 heard
   - unreachable code: 👂 heard
   - duplicate code: 👂 heard
   - exception: 👂 heard
-  - return early
-  - unittest
+  - return early: 👂 heard
+  - unittest: 👂 heard
   - git: 🖐️ used 
   - github: 🖐️ used 
